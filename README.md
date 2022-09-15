@@ -14,4 +14,3 @@ please use php version 5.6 or less
 ![screenshot 28](https://user-images.githubusercontent.com/46001681/50267849-a4c75d80-044e-11e9-844a-e836857609a2.png)
 ![screenshot 29](https://user-images.githubusercontent.com/46001681/50267854-a85ae480-044e-11e9-9435-df2419778b4b.png)
 ![screenshot 32](https://user-images.githubusercontent.com/46001681/50267856-ac870200-044e-11e9-9274-d48a063e3da9.png)
-![screenshot 30](https://user-images.githubusercontent.com/46001681/50267863-af81f280-044e-11e9-82c4-3c2a9fce50b3.png)
